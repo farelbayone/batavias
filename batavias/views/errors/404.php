@@ -1,0 +1,1 @@
+<?php $title='Not found';require dirname(__DIR__).'/layouts/header.php';?><div class="empty error-page"><div class="eyebrow">404 / NOT FOUND</div><h1>Halaman tidak ditemukan.</h1><a class="btn" href="<?=e(url(''))?>">Back home</a></div><?php require dirname(__DIR__).'/layouts/footer.php';?>

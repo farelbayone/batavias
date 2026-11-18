@@ -1,0 +1,1 @@
+</main><footer class="footer">© <?=date('Y')?> Batavias · Plan. Manage. Experience.</footer><script src="<?=e(url('assets/js/app.js'))?>"></script></body></html>
